@@ -18,3 +18,8 @@ Of course, the text used to generate the probability matrix is 1D (a stream of c
 3. Choose the most likely letter (the one with the higher probability).
 
 This leads to wordsearches that favour vertical and horizontal words, with much lower probability of diagonals.
+
+## Source material
+The source material for the probability matrices is the complete works of Shakespeare. 
+
+Fun fact: the word "urinal" came up in an early wordsearch, and checking the material, it appears in The Merry Wives of Windsor, Act II, Scene 3, and other works.
